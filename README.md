@@ -40,4 +40,4 @@ and drop the file in here. To check if the installation worked you can just open
 For more details, see ["The Highlight Definition XML Format" (Working with Syntax Highlighting, KDE Documentation)](https://docs.kde.org/?application=katepart&branch=trunk5&path=highlight.html#katehighlight-xml-format).
 
 
-Report any issues you find. I am new to this and never done this before.
+Report any issues you find. I am new to this and never did this before.
