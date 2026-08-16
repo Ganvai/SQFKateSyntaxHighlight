@@ -3,8 +3,7 @@ Syntax Highlighting XML for Kate Editor. Initially created by jamesxmcIntosh but
 Open issues:
 - A lot of double entries
 - I am not sure if I like the seperation of OFP, Arma 2 and Arma 3 commands, although ultimately it doesn't make a difference
-- Not sure about the initial formating.
-- 
+- Not sure about the initial formating - might work on this later on but right now it is what it is.
 
 Install sqf.xml in **org.kde.syntax-highlighting/syntax/**, which is located in your user directory.
 Usually it is:
