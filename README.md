@@ -1,4 +1,4 @@
-Syntax Highlighting XML for Kate Editor. Initially created by jamesxmcIntosh but since it was not updated anymore I chose to update it myself. Still, huge credits go to JMX and his work. You can find his original file here: (https://github.com/jamesxmcintosh/sqf-ksyntaxhighlighting).
+Syntax Highlighting XML for Kate Editor. Initially created by jamesxmcIntosh but since it was not updated anymore I chose to update it myself. Still, huge credits go to JMX and his work. You can find his original file here: https://github.com/jamesxmcintosh/sqf-ksyntaxhighlighting.
 
 Open issues:
 - A lot of double entries
